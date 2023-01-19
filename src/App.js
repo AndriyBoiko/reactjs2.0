@@ -1,7 +1,10 @@
+import Charakter from "./components/RickCharakter/Charakter";
+import {Char} from "./components/RickCharakter/Char";
+
 function App() {
   return (
     <div >
-      hello react
+      <Charakter/>
     </div>
   );
 }
